@@ -27,12 +27,12 @@
 ### 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=Linux&logoColor=blue">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Matlab-FFD43B?style=for-the-badge&logo=Matlab&logoColor=blue">
-  <img src="https://img.shields.io/badge/R programming-FFD43B?style=for-the-badge&logo=R&logoColor=blue">
-  <img src="https://img.shields.io/badge/React Native-FFD43B?style=for-the-badge&logo=React Native&logoColor=blue">
-  <img src="https://img.shields.io/badge/Docker-FFD43B?style=for-the-badge&logo=Docker&logoColor=blue">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Matlab-EF5B24?style=for-the-badge&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/R programming-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
