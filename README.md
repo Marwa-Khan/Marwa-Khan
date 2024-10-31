@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm Marwa</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif](https://giphy.com/gifs/simplysocialnm-simply-social-media-XZy2SbQTJEm7q4KeEm)" width="35px">
+  <img src="https://media.giphy.com/media/XZy2SbQTJEm7q4KeEm/giphy.gif" width="35px">
 </p>
 
 
