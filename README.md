@@ -27,8 +27,8 @@
 ### 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Linux-FFD43B?style=for-the-badge&logo=Linux&logoColor=blue">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=p&logoColor=blue">
   <img src="https://img.shields.io/badge/Matlab-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/R programming-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/React Native-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
