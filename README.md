@@ -1,7 +1,8 @@
-<h1 align="center">Hello there! 👋 I'm Marwa</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/XZy2SbQTJEm7q4KeEm/giphy.gif" width="35px">
+  <img src="https://media.giphy.com/media/XZy2SbQTJEm7q4KeEm/giphy.gif" width="100px">
 </p>
+<h1 align="center">Hello there! 👋 I'm Marwa</h1>
+
 
 
 
