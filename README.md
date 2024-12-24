@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=SQL&logoColor=white">
 </p>
 
 ### 🎉 Fun Facts
