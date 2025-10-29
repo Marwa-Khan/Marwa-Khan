@@ -13,10 +13,13 @@
 
 ### 🎓 About Me
 
-- 👩‍💻 Postgraduate in **Software Engineering** at the **University of Oulu**
-- 🌱 Exploring **DevOps** and **Automated Testing**
-- 💡 Interested in software testing, problem-solving, and continuous learning
-- 🎯 Aim: To build software that makes a difference
+🤖 Master’s student in **Software Engineering and Information Systems** at the University of Oulu
+
+💡 Passionate about Artificial Intelligence, Large Language Models (LLMs), and their applications in software development
+
+🧩 Exploring how AI, automation, and software engineering intersect to create intelligent, reliable, and human-centered technologies
+
+🎯 Aim: To engineer smart software that bridges human expertise and AI intelligence
 
 ### 📈 GitHub Stats
 
